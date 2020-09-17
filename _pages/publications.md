@@ -7,7 +7,7 @@ redirect_from:
 
 <p> <center> <h1>Publications</h1> </center> </p> <br>
 
-You can also follow my articles on <u><a href="https://scholar.google.com/citations?user=PRiO1MoAAAAJ&hl=en"><b>Google Scholar</b></a></u> or <u><a href="https://www.researchgate.net/profile/Michael_Weiss18"><b>ResearchGate</b></a></u>.
+Follow articles on <u><a href="https://scholar.google.com/citations?user=PRiO1MoAAAAJ&hl=en"><b>Google Scholar</b></a></u> or <u><a href="https://www.researchgate.net/profile/Michael_Weiss18"><b>ResearchGate</b></a></u>.
 
 
 ## 2019
