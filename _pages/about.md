@@ -3,7 +3,7 @@ permalink: /about/
 title: ""
 excerpt: "About"
 author_profile: true
-redirect_from: 
+redirect_from: /
 ---
 
 <p> <center> <h1></h1> </center> </p> <br>
