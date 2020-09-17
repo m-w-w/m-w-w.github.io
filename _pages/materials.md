@@ -1,5 +1,7 @@
 ---
 title: ""
+layout: collection
+collection: materials
 permalink: /materials/
 author_profile: true
 redirect_from:
