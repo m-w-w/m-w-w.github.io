@@ -191,6 +191,16 @@ collections:
   materials:
     output: true
     permalink: /:collection/:path/
+
+defaults:
+  # _materials
+  - scope:
+      path: ""
+      type: materials
+    values:
+      layout: single
+      author_profile: false
+      share: false
     
 # Markdown Processing
 kramdown:
