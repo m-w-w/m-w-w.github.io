@@ -1,11 +1,9 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: "About"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <p> <center> <h1></h1> </center> </p> <br>
