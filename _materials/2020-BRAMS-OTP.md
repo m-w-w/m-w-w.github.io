@@ -2,6 +2,7 @@
 title: "Zoom meeting for BRAMS OTP"
 date: 2020-09-17
 location: "Montreal, Canada"
+layout: default
 ---
 
 These are the materials discussed in the Zoom Q & A from 17 Sept., 2020.
