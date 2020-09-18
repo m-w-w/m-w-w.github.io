@@ -191,6 +191,9 @@ collections:
   materials:
     output: true
     permalink: /:collection/:path/
+  misc:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _materials
@@ -199,6 +202,14 @@ defaults:
       type: materials
     values:
       layout: single
+      author_profile: false
+      share: false
+  # _misc
+  - scope:
+      path: ""
+      type: misc
+    values:
+      layout: grid
       author_profile: false
       share: false
     
