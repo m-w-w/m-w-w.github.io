@@ -206,7 +206,6 @@ defaults:
       share: false
   # _misc
   - scope:
-      path: "_misc"
       type: misc
     values:
       layout: single
