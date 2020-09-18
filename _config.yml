@@ -198,7 +198,6 @@ collections:
 defaults:
   # _materials
   - scope:
-      path: "_materials"
       type: materials
     values:
       layout: single
