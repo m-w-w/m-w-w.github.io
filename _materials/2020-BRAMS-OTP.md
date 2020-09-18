@@ -1,8 +1,5 @@
 ---
 title: "Zoom meeting for BRAMS OTP"
-collection: materials
-type: "Temporary resources"
-permalink: /materials/2020-BRAMS-OTP
 date: 2020-09-17
 location: "Montreal, Canada"
 ---
