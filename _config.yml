@@ -198,7 +198,7 @@ collections:
 defaults:
   # _materials
   - scope:
-      path: ""
+      path: "_materials"
       type: materials
     values:
       layout: single
@@ -206,10 +206,10 @@ defaults:
       share: false
   # _misc
   - scope:
-      path: ""
+      path: "_misc"
       type: misc
     values:
-      layout: grid
+      layout: single
       author_profile: false
       share: false
     
