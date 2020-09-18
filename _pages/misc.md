@@ -1,9 +1,10 @@
 ---
-title: ""
+title: Misc
 layout: collection
 permalink: /misc/
 collection: misc
-author_profile: true
+entried_layout: grid
+classes: wide
 ---
 
 <p> <center> <h1>Misc</h1> </center> </p> <br>
