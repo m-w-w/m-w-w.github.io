@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "https://m-w-w.github.io/files/Photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Postdoc at University of Montreal"
   location         : "Montréal, Canada"
