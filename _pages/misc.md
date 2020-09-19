@@ -1,5 +1,5 @@
 ---
-title: Misc
+title: ""
 layout: collection
 permalink: /misc/
 collection: misc
