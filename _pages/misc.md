@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: archive
+layout: collection
 permalink: /misc/
 collection: misc
 entried_layout: grid
