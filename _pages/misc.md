@@ -3,7 +3,7 @@ title: ""
 layout: collection
 permalink: /misc/
 collection: misc
-entried_layout: grid
+entries_layout: grid
 classes: wide
 ---
 
