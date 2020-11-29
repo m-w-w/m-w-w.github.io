@@ -17,9 +17,9 @@ Follow articles on <u><a href="https://scholar.google.com/citations?user=PRiO1Mo
 
 ## 2019
 
-* Weiss, M. W., Schellenberg, E. G., Peng, C., & Trehub, S. E. (2019). Contextual distinctiveness affects the memory advantage for vocal melodies. Auditory Perception and Cognition, 2, 47–66. 
+* Weiss, M. W., Schellenberg, E. G., Peng, C., & Trehub, S. E. (2019). Contextual distinctiveness affects the memory advantage for vocal melodies. Auditory Perception and Cognition, 2, 47–66. [**[Download]**](https://m-w-w.github.io/files/papers/2019-WeissSchellenbergPengTrehub.pdf)
 
-* Schellenberg, G. S., Weiss, M. W., Peng, C., & Alam, S. (2019). Fine-grained implicit memory for key and tempo. Music and Science, 2, 1–14. 
+* Schellenberg, G. S., Weiss, M. W., Peng, C., & Alam, S. (2019). Fine-grained implicit memory for key and tempo. Music and Science, 2, 1–14. [**[Download]**](https://m-w-w.github.io/files/papers/2019-SchellenbergWeissPengAlam.pdf)
 
 * Trehub, S. E., Weiss, M. W., & Cirelli, L. K. (2019). Developmental perspectives on music. In J. Rentfrow & D. Levitin (Eds.), Foundations of music psychology: Theory and research (pp. 265–303). 
 
