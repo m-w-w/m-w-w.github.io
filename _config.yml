@@ -188,6 +188,9 @@ incremental: false
 
 # Collections
 collections:
+  demos:
+    output: true
+    permalink: /:collection/:path/
   materials:
     output: true
     permalink: /:collection/:path/
@@ -196,6 +199,13 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
+  # _materials
+  - scope:
+      type: demos
+    values:
+      layout: single
+      author_profile: true
+      share: false
   # _materials
   - scope:
       type: materials
