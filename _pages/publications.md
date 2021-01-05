@@ -9,9 +9,15 @@ redirect_from:
 
 Follow articles on <u><a href="https://scholar.google.com/citations?user=PRiO1MoAAAAJ&hl=en"><b>Google Scholar</b></a></u> or <u><a href="https://www.researchgate.net/profile/Michael_Weiss18"><b>ResearchGate</b></a></u>.
 
+## 2021
+
+* Weiss, M. W., Sharda, M., Lense, M., Hyde, K. L., Trehub, S. E. (2021). Enhanced memory for vocal melodies in Autism Spectrum Disorder and Williams syndrome. Autism Research. [**[Download]**](https://m-w-w.github.io/files/papers/2021-WeissShardaLenseHydeTrehub.pdf)
+
 ## 2020
 
 * Weiss, M. W., Bissonnette, A.-M., & Peretz, I. (2020). The singing voice is special: Persistence of superior memory for vocal melodies despite vocal-motor distractions. Cognition. [**[Download]**](https://m-w-w.github.io/files/papers/2020-WeissBissonnettePeretz.pdf)
+
+* Marion-St-Onge, C., Weiss, M. W., Sharda, M., & Peretz, I. (2020). What makes musical prodigies? Frontiers in Psychology. [**[Download]**](https://www.frontiersin.org/articles/10.3389/fpsyg.2020.566373/full)
 
 * Weiss, M. W., Cirelli, L. K., McDermott, J. H., & Trehub, S. E. (2020). Development of consonance preferences in Western listeners. Journal of Experimental Psychology: General, 149, 634–649. [**[Download]**](https://m-w-w.github.io/files/papers/2020-WeissCirelliMcDermottTrehub.pdf)
 
